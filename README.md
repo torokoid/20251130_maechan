@@ -260,7 +260,7 @@ p.note { display: none; }
 <a href="20251130_046.JPG" target="_blank"><img src="20251130_046.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251130_047.JPG" target="_blank"><img src="20251130_047.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">プールからの夕暮れ映像</span></h2>
+<h2><span class="yellow">プールからの夕暮れ映像Last1枚</span></h2>
 <a href="20251130_048.JPG" target="_blank"><img src="20251130_048.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">日没後のプール周辺は滅多に見ないので、何枚か撮影</span></h2>
