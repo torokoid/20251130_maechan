@@ -195,6 +195,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">Gショックもどきも大量に出回ってます</span></h2>
 <a href="20251130_018.JPG" target="_blank"><img src="20251130_018.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">カップの中の水中でも作動するとの、デモ中でした</span></h2>
 <a href="20251130_019.JPG" target="_blank"><img src="20251130_019.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">よくできてる感じですが、耐久性はイマイチとの噂</span></h2>
